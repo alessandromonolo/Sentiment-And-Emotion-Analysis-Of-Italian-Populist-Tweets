@@ -1,4 +1,4 @@
-# Sentiment-analysis-of-Italian-populist-tweets
+# Sentiment analysis of the Italian populist politician on Twitter - @GiorgiaMeloni, @beppe_grillo, @matteosalvinimi.
 This research aims to analyze the tweets of the foremost Italian populist leaders in order to observe the
 different communication methods adopted by Giuseppe Grillo, for Movimento 5 Stelle (left-right-wing party),
 Giorgia Meloni, for Fratelli D' Italia (right-wing party), and Matteo Salvini, for Lega (right-wing party).
